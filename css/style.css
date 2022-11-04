@@ -62,16 +62,28 @@ body {
 
 .lessenText1 {
   color: red;
-    border-bottom: 10px solid dimgray;
+    border-bottom: 5px dotted green;
     padding: 10px;
     margin-bottom: 15px;
 }
 .lessenText2 {
   color: red;
-    border-bottom: 10px solid dimgray;
+    border-bottom: 5px dotted green;
     padding: 10px;
     margin-bottom: 15px;
 }
+.lessenText3 {
+  color: red;
+    border-bottom: 5px dotted green;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.lessenText4 {
+  color: red;
+    border-bottom: 5px dotted green;
+    padding: 10px;
+    margin-bottom: 15px;}
+
 
 
 /*=================================footer===============================*/

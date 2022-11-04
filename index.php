@@ -14,6 +14,7 @@
 	<main>
 		<div class="wrapper">
 			<h1>Welkom op deze website!</h1>
+			<h2>hallo mensen</h2>
 		</div>
 	</main>
 

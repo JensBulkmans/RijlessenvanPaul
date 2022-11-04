@@ -14,6 +14,8 @@
 	<main>
 		<div class="wrapper">
 			<h1>Lessen</h1>
+				<h1>De rijlessen</h1>
+	<p>De rijlessen die wij aanbieden rijden we met een lesauto van Blom</p>
 
 		</div>
 	</main>
@@ -22,8 +24,6 @@
 		// Schrijf hier Javascript voor de "lees meer"
 		// (of andere interactie die je maakt). 
 	</script>
-	<h1>De rijlessen</h1>
-	<p>De rijlessen die wij aanbieden rijden we met een lesauto van Blom</p>
 
 	<!-- EINDE eigen code -->
 

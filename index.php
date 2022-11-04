@@ -13,7 +13,8 @@
 	<!-- START eigen code -->
 	<main>
 		<div class="wrapper">
-			<h1>Welkom op deze website!</h1>
+			<h1>Home</h1>
+
 		</div>
 	</main>
 

@@ -11,6 +11,12 @@
 	<?php require_once("header.php"); ?>
 
 	<!-- START eigen code -->
+	<main>
+		<div class="wrapper">
+			<h1>Lessen</h1>
+
+		</div>
+	</main>
 	
 	<script type="text/javascript">
 		// Schrijf hier Javascript voor de "lees meer"

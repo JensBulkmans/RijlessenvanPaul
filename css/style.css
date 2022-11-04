@@ -10,7 +10,7 @@
 }
 
 .muted{
-	color: grey;
+	color: white;
 }
 
 /* START eigen code */
@@ -81,13 +81,14 @@ body {
    bottom: 0;
    width: 100%;
    padding-bottom: 50px;
-   background-color: green;
+   background-color: #2B9348;
    color: white;
    text-align: center;
  }
 
 footer a{
   text-decoration: none;
+  color: white;
 }
 
 

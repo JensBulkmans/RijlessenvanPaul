@@ -24,6 +24,9 @@
 	</script>
 	<!-- EINDE eigen code -->
 
+<h1>De rijlessen</h1>
+<p>De rijlessen die wij aanbieden rijden we met een auto</p>
+
 	<?php require_once("footer.php"); ?>
 	
 </body>

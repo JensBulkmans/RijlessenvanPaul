@@ -58,10 +58,14 @@ body {
 }
 
 
-
 /*=================================main===============================*/
 
-
+.lessenText1 {
+  color: red;
+    border-bottom: 10px solid dimgray;
+    padding: 10px;
+    margin-bottom: 15px;
+}
 
 /*=================================footer===============================*/
 .footer {
@@ -73,6 +77,10 @@ body {
    background-color: green;
    color: white;
    text-align: center;
+ }
+
+footer a{
+  text-decoration: none;
 }
 
 

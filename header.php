@@ -1,6 +1,8 @@
 <header>
-    <img src="img/LogoBlom.png" alt="Logo Blom">
     <div class="topnav" id="myTopnav">
+        <div class="navimg">
+            <img src="img/LogoBlom.png" alt="Logo Blom">
+        </div>
         <a href="index.php" class="active">Home</a>
       	<a href="Lessen.php">Lessen</a>
         <a href="Prijzen.php">Prijzen</a>

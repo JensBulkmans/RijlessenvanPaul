@@ -49,7 +49,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #2B9348;
+  background-color: #329C32;
   color: white;
 }
 
@@ -57,30 +57,33 @@ body {
   display: none;
 }
 
+.navimg {
+  width: 24%;
+}
 
 /*=================================main===============================*/
 
 .lessenText1 {
-  color: red;
-    border-bottom: 5px dotted green;
+  color: black;
+    border-bottom: 5px dotted #329C32;
     padding: 10px;
     margin-bottom: 15px;
 }
 .lessenText2 {
-  color: red;
-    border-bottom: 5px dotted green;
+  color: black;
+    border-bottom: 5px dotted #329C32;
     padding: 10px;
     margin-bottom: 15px;
 }
 .lessenText3 {
-  color: red;
-    border-bottom: 5px dotted green;
+  color: black;
+    border-bottom: 5px dotted #329C32;
     padding: 10px;
     margin-bottom: 15px;
 }
 .lessenText4 {
-  color: red;
-    border-bottom: 5px dotted green;
+  color: black;
+    border-bottom: 5px dotted #329C32;
     padding: 10px;
     margin-bottom: 15px;}
 
@@ -93,7 +96,7 @@ body {
    bottom: 0;
    width: 100%;
    padding-bottom: 50px;
-   background-color: #2B9348;
+   background-color: #329C32;
    color: white;
    text-align: center;
  }

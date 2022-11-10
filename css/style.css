@@ -31,6 +31,8 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .topnav a {
@@ -57,10 +59,14 @@ body {
   display: none;
 }
 
-.navimg {
-  width: 183%;
-  display: inline-flex;
+.topnav{
+
 }
+
+.topnav img{
+  width: 30%;
+}
+
 
 /*=================================main===============================*/
 

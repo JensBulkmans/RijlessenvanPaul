@@ -14,20 +14,15 @@
 	<main>
 		<div class="wrapper">
 			<h1>Home</h1>
-
-		</div>
-			<h1>Javascript-button</h1>
-	<p id ="welkom"></p>
-	<button id="button">Toepasselijke text</button>
+			<p id="groet" class="groetTekst"></p>
 
 	<script>
-		document.getElementById('button').addEventListener('click', function() {
 			let name = prompt("Wat is je naam?");
-			if (name.length > 0) {
-				document.getElementById('welkom').innerText = "Welkom op deze pagina, " + name;
-				document.getElementById('welkom').style.fontSize = '55px';
-				document.getElementById('welkom').style.backgroundColor = 'yellow';
-			}})
+			let groetElement = document.getElementById("groet")
+			if (name.length > 0){
+				groetElement.innerText = "Gegroet " + name + " een fijn ervaring op ons web gewenst!"
+			}
+			
 </script>
 	</main>
 

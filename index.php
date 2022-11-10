@@ -42,23 +42,18 @@
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</p>
-
- 	<script>
-			let name = prompt("Wat is je naam?");
-			let groetElement = document.getElementById("groet")
-			if (name.length > 0){
-				groetElement.innerText = "Gegroet " + name + " een fijn ervaring op ons web gewenst!"
-			}
-			
-	</script>
 	</main>
 
 
 
 
 	<script type="text/javascript">
-		// Schrijf hier Javascript voor de "lees meer"
-		// (of andere interactie die je maakt). 
+			let name = prompt("Wat is je naam?");
+			let groetElement = document.getElementById("groet")
+			if (name.length > 0){
+				groetElement.innerText = "Gegroet " + name + " een fijn ervaring op ons web gewenst!"
+			}
+
 	</script>
 	<!-- EINDE eigen code -->
 

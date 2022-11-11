@@ -51,7 +51,7 @@
 			let name = prompt("Wat is je naam?");
 			let groetElement = document.getElementById("groet")
 			if (name.length > 0){
-				groetElement.innerText = "Gegroet " + name + " een fijn ervaring op ons web gewenst!"
+				groetElement.innerText = "Gegroet " + name + " en een fijn ervaring op ons web gewenst!"
 			}
 
 	</script>

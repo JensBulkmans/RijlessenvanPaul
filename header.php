@@ -2,7 +2,7 @@
     <div class="topnav" id="myTopnav">
         <img src="img/LogoBlom.png" alt="Logo Blom">
         <div class="navimg">
-        <a href="index.php" class="active">Home</a>
+        <a href="home.php" class="active">Home</a>
       	<a href="Lessen.php">Lessen</a>
         <a href="Prijzen.php">Prijzen</a>
         <a href="Over ons.php">Over ons</a>

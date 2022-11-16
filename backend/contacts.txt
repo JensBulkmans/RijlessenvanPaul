@@ -8,6 +8,11 @@ Bericht van:  ()
 Bericht van:  ()
 
 ------------------------------------------------------------
+<<<<<<< HEAD
 Bericht van: Julian (Poppelaadashogr9pho)
 DAJFDI
+=======
+Bericht van:  ()
+
+>>>>>>> 50a1bc011f49343c20f32a6070e3add62c7dcc92
 ------------------------------

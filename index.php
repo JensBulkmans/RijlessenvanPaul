@@ -13,16 +13,19 @@
 
 	<!-- START eigen code -->
 	<main>
-		<div class="pictures1">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-	</div>
 
 		<div class="wrapper">
 			<h1>Home</h1>
+
+		<div class="wrapper">
+			<div class="pictures1">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+			</div>
+			
 			<p id="groet" class="groetTekst"></p>
 
 			<p class="lessenText1"><h3>Rijlessen</h3>

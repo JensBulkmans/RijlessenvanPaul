@@ -13,6 +13,10 @@
 
 	<!-- START eigen code -->
 	<main>
+
+		<div class="wrapper">
+			<h1>Home</h1>
+
 		<div class="wrapper">
 			<div class="pictures1">
 				<img src="img/fish.png" alt="foto">
@@ -21,9 +25,8 @@
 				<img src="img/fish.png" alt="foto">
 				<img src="img/fish.png" alt="foto">
 			</div>
-
-			<h1>Home</h1>
-
+			
+			<p id="groet" class="groetTekst"></p>
 			<p class="lessenText1"><h3>Rijlessen</h3>
 			Dus jij wilt jouw rijbewijs gaan halen? Dit doe je natuurlijk het liefste bij een betrouwbare goede rijschool, dan ben jij op de juiste weg! Wij, Blom Verkeersschool, hebben al meer dan 50 jaar ervaring & met ons vaste team aan ervaren docenten en rijinstructeurs geven wij jou de opleiding die je verdient. Want je rijbewijs halen is 1, maar je wilt toch ook gewoon écht veilig en verantwoord kunnen rijden?</p>
 

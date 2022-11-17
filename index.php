@@ -17,31 +17,26 @@
 			<h1>Home</h1>
 			<p id="groet" class="groetTekst"></p>
 
-			<p class="lessenText1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p class="lessenText1"><h3>Rijlessen</h3>
+			Dus jij wilt jouw rijbewijs gaan halen? Dit doe je natuurlijk het liefste bij een betrouwbare goede rijschool, dan ben jij op de juiste weg! Wij, Blom Verkeersschool, hebben al meer dan 50 jaar ervaring & met ons vaste team aan ervaren docenten en rijinstructeurs geven wij jou de opleiding die je verdient. Want je rijbewijs halen is 1, maar je wilt toch ook gewoon écht veilig en verantwoord kunnen rijden?</p>
 
-			<p class="lessenText2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur.</p>
+			<p class="lessenText2"><h3>Waarom Blom?</h3>
+					<ul>
+						<li>Al meer dan 50 jaar de rijschool in Brabant (sinds 1968) van Bergen op Zoom tot en met Oosterhout</li>
+						<li>Lekker flexibel!</li>
+						<li>Ophalen waar jij wilt en wanneer het jou uitkomt! Ook op avonden en zaterdag</li>
+						<li>Jij bepaalt de duur van je rijles; 60, 90, 120 minuten</li>
+						<li>Altijd dezelfde instructeur</li>
+						<li>Speciaal gecertificeerde rij-instructeur(s) voor AD(H)D, Autisme, Rijangst en Faalangst</li>
+						<li>We also give drivinglessons in English. Click here to read more</li>
+					</ul></p>
 
-			<p class="lessenText3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			<p class="lessenText3"><h3>Automaat</h3>
+			Het is bij ons ook mogelijk te rijlessen in een automaat. Geen andere prijzen, geen andere voorwaarden, gewoon een ‘normaal’ automaat rijbewijs!
+			</p>
 		
-			<p class="lessenText4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<p class="lessenText4"><h3>Lessons in English</h3>
+			Are you looking for a reliable drivingschool? We are here to help you on your way, even in English! It is also possible to have lessons in English in the automatic car.
 			</p>
 	</main>
 

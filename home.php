@@ -13,15 +13,15 @@
 
 	<!-- START eigen code -->
 	<main>
-		<div class="pictures1">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-		<img src="img/fish.png" alt="foto">
-	</div>
-
 		<div class="wrapper">
+			<div class="pictures1">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+				<img src="img/fish.png" alt="foto">
+			</div>
+
 			<h1>Home</h1>
 
 			<p class="lessenText1"><h3>Rijlessen</h3>

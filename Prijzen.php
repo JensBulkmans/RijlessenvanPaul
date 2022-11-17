@@ -42,6 +42,9 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</p>
 
+		<div class="pictures2">
+		<img src="img/fish.png">
+
 		</div>
 	</main>
 

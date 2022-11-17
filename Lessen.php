@@ -32,6 +32,9 @@
 	Speciaal gecertificeerde rij-instructeur(s) voor AD(H)D, Autisme, Rijangst en Faalangst
 	</p>
 
+	<div class="pictures2">
+	<img src="img/fish.png">
+
 		</div>
 	</main>
 	

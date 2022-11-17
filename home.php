@@ -13,6 +13,14 @@
 
 	<!-- START eigen code -->
 	<main>
+		<div class="pictures1">
+		<img src="img/fish.png" alt="foto">
+		<img src="img/fish.png" alt="foto">
+		<img src="img/fish.png" alt="foto">
+		<img src="img/fish.png" alt="foto">
+		<img src="img/fish.png" alt="foto">
+	</div>
+
 		<div class="wrapper">
 			<h1>Home</h1>
 

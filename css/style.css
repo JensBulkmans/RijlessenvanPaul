@@ -143,6 +143,7 @@ header{
     margin-bottom: 15px;}
 
 .groetTekst {
+  font-size: 28px;
   color: green;
   border: 5px solid black;
 }

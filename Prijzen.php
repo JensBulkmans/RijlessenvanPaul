@@ -22,7 +22,7 @@
 				<img src="img/startpakket.png" alt="foto">
 				<img src="img/startpakket__theorie.png" alt="foto">
 			</div>
-			
+
 			<p class="lessenText1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -51,7 +51,7 @@
 			</p>
 
 		<div class="pictures2">
-		<img src="img/fish.png">
+		<img src="img/LogoBlom.png">
 
 		</div>
 	</main>

@@ -34,7 +34,7 @@
 	</p>
 
 	<div class="pictures2">
-	<img src="img/fish.png">
+	<img src="img/LogoBlom.png">
 
 		</div>
 	</main>

@@ -59,6 +59,20 @@ main {
   border: 5px solid green;
   }
 
+  .pictures3 {
+  display: flex;
+  justify-content: space-between;
+}
+.pictures3 img{
+  width: 25%;
+
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+  border: 2px solid green;
+  }
+
+
 /*=================================header===============================*/
 header{
 

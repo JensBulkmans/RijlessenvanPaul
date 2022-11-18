@@ -23,32 +23,10 @@
 				<img src="img/startpakket__theorie.png" alt="foto">
 			</div>
 
-			<p class="lessenText1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p class="lessenText1">Wil jij het autorijbewijs gaan halen? Wij helpen je graag op weg! Gewoon lekker snel, flexibel en toch voordelig. Je bepaalt bij ons zelf de duur van jouw rijles, het tempo van je opleiding en waar wij je ophalen! Wel zo makkelijk toch? Schrijf je direct in voor de gratis proefles!
+			<br>
+			Als je 16 jaar bent mag je theorie-examen doen en vanaf je 16,5 mag je beginnen met rijlessen. Zodra je 17 bent kun je praktijkexamen doen.</p>
 
-			<p class="lessenText2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur.</p>
-
-			<p class="lessenText3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		
-			<p class="lessenText4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</p>
 
 		<div class="pictures2">
 		<img src="img/LogoBlom.png">

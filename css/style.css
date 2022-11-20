@@ -38,7 +38,7 @@ main {
   justify-content: space-between;
 }
 .pictures1 img{
-  width: 15%;
+  width: 16.5%;
 
   margin-top: 25px;
   margin-bottom: 25px;
@@ -51,7 +51,7 @@ main {
   justify-content: center;
 }
 .pictures2 img{
-  width: 15%;
+  width: 25%;
 
   margin-top: 25px;
   margin-bottom: 25px;
@@ -139,6 +139,37 @@ header{
 .lessenText4 {
   color: black;
     border-bottom: 5px dotted #329C32;
+    padding: 10px;
+    margin-bottom: 15px;}
+
+.overText1 {
+  color: black;
+  font-size: 25px;
+    padding: 10px;
+}
+.overText2 {
+  color: black;
+    border-bottom: 5px dotted #329C32;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.overText3 {
+  color: black;
+  font-size: 25px;
+    border-bottom: 5px dotted #329C32;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.overText4 {
+  color: black;
+    border-bottom: 5px dotted #329C32;
+    padding: 10px;
+    margin-bottom: 15px;}
+
+.overText5 {
+  color: black;
+  font-size: 20px;
+    border: 5px dotted #329C32;
     padding: 10px;
     margin-bottom: 15px;}
 

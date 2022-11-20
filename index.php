@@ -19,12 +19,13 @@
 
 		<div class="wrapper">
 			<div class="pictures1">
-				<img src="img/fish.png" alt="foto">
-				<img src="img/fish.png" alt="foto">
-				<img src="img/fish.png" alt="foto">
-				<img src="img/fish.png" alt="foto">
-				<img src="img/fish.png" alt="foto">
+				<img src="img/1.jpg" alt="foto">
+				<img src="img/2.jpg" alt="foto">
+				<img src="img/3.jpg" alt="foto">
+				<img src="img/4.jpg" alt="foto">
+				<img src="img/7.jpg" alt="foto">
 			</div>
+
 			
 			<p id="groet" class="groetTekst"></p>
 
@@ -58,7 +59,7 @@
 			let name = prompt("Wat is je naam?");
 			let groetElement = document.getElementById("groet")
 			if (name.length > 0){
-				groetElement.innerText = "Gegroet " + name + " een fijn ervaring op ons web gewenst!"
+				groetElement.innerText = "Gegroet " + name + " een fijne ervaring op ons web gewenst!"
 			}
 
 	</script>
